@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Library-Management-System
 # Library-Management-System
 # LibraryManagementSystem
+# LibraryManagementSystem
