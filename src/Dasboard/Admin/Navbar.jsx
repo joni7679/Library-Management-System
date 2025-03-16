@@ -13,7 +13,7 @@ const Navbar = () => {
                 />
             </div>
             <div>
-                <h1 className="text-xl capitalize"> Wellcome to  admin</h1>
+                <h1 className="text-xl capitalize"> Wellcome to Joni bro you are admin right now</h1>
             </div>
             {/* Right Section */}
             <div className="flex items-center gap-4">

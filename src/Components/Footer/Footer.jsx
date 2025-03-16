@@ -12,8 +12,6 @@ function Footer() {
                             Empowering learners worldwide with top-notch courses and resources. Your success is our mission.
                         </p>
                     </div>
-
-                    {/* Links */}
                     <div>
                         <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
                         <ul>
@@ -23,8 +21,6 @@ function Footer() {
                             <li><a href="#" className="text-gray-400 hover:text-white">Contact Us</a></li>
                         </ul>
                     </div>
-
-                    {/* Support */}
                     <div>
                         <h3 className="text-lg font-semibold mb-4">Support</h3>
                         <ul>
@@ -34,8 +30,6 @@ function Footer() {
                             <li><a href="#" className="text-gray-400 hover:text-white">Privacy Policy</a></li>
                         </ul>
                     </div>
-
-                    {/* Newsletter */}
                     <div>
                         <h3 className="text-lg font-semibold mb-4">Subscribe to Our Newsletter</h3>
                         <p className="text-gray-400 mb-4">Stay updated with the latest courses and news.</p>
