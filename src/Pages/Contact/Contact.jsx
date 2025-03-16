@@ -4,14 +4,7 @@ import ContactRightPart from './ContactRightPart'
 import Navbar from '../Navbar/Navbar'
 import Footer from '../../Components/Footer/Footer'
 
-
-
-
 function Contact() {
-
-
-
-
   return (
     <>
       <Navbar />

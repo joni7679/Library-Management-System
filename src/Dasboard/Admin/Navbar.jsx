@@ -15,7 +15,6 @@ const Navbar = () => {
             <div>
                 <h1 className="text-xl capitalize"> Wellcome to  admin</h1>
             </div>
-
             {/* Right Section */}
             <div className="flex items-center gap-4">
                 <button className="bg-red-500 text-white px-3 py-1 rounded-full text-sm font-semibold shadow-md">Live</button>
